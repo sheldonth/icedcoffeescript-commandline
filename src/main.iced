@@ -1,7 +1,10 @@
-class main
+class Main
   
   constructor : () ->
     console.log "Main Allocated"
+  
+  main : () ->
+    console.log "Main Function Running!"
   
 ##=======================================================================
 
