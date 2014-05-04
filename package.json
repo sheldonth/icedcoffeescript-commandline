@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "iced-coffee-script":"1.7.1-b"
+    "iced-coffee-script":"1.7.1-b",
+    "coffee-script": "=1.7.1",
+    "tafa-misc-util": "=0.1.6"
   }
 }
